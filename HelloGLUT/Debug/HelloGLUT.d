@@ -1,0 +1,1 @@
+HelloGLUT.d: ../HelloGLUT.cpp
