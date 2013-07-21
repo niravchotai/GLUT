@@ -2,7 +2,7 @@
  * HelloGLUT.cpp
  *
  *  Created on: Jul 8, 2013
- *      Author: saasbook
+ *      Author: Nirav Chotai
  */
 #include<GL/glut.h>
 void draw(void) {
